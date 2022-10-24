@@ -1,0 +1,8 @@
+1. run the commands to install dependencies
+    pip install botbuilder-core
+    pip install asyncio
+    pip install aiohttp
+    pip install cookiecutter==1.7.0
+2. run the cookiecutter commands and fill in the information
+    cookiecutter https://github.com/microsoft/botbuilder-python/releases/download/Templates/echo.zip
+3. run the app.py file using 'python3 app.py'
